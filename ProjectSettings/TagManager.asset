@@ -5,8 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Porta
-  - 'Porta venceu '
   - ColidiuPerdeu
+  - Porta venceu
   layers:
   - Default
   - TransparentFX
