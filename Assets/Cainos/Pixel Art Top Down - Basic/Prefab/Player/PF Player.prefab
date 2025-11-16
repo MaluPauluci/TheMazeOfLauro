@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83273c5b1a776244e8b2bc1cf8e3e02f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMov
-  speed: 6
+  speed: 3
   smoothing: 10
   deadZone: 0.05
   autoCalibrateOnStart: 1
