@@ -431,6 +431,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PF Props - Wooden Gate 01 Opened
       objectReference: {fileID: 0}
+    - target: {fileID: 2055102311959635369, guid: 8e9c401d7a70ec94d956296ea011f594, type: 3}
+      propertyPath: m_TagString
+      value: Porta
+      objectReference: {fileID: 0}
     - target: {fileID: 2055102311959635375, guid: 8e9c401d7a70ec94d956296ea011f594, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.4279101
