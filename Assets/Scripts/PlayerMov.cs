@@ -15,6 +15,11 @@ public class PlayerMov : MonoBehaviour
     private Vector3 accelZero; 
     private Vector2 vel, velTarget;
 
+    private void OnEnable()
+    {
+        InputSystem.EnableDevice(Accelerometer.current);
+    }
+
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
